@@ -1,0 +1,16 @@
+{
+  "name": "moneybot-telegram",
+  "version": "1.0.0",
+  "description": "Telegram AI coach bot for the Automatic Money Machine blueprint",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
